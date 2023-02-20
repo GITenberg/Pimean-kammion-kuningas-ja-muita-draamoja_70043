@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '47352'
     url: http://www.gutenberg.org/2009/agents/47352
     wikipedia: https://fi.wikipedia.org/wiki/J._A._Hollo
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tagore, Rabindranath
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/942
     wikipedia: https://en.wikipedia.org/wiki/Rabindranath_Tagore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70043#Pimean-kammion-kuningas-ja-muita-draamoja
 gutenberg_issued: '2023-02-14'
 identifiers:
   gutenberg: '70043'
